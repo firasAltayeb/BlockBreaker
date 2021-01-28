@@ -1,5 +1,3 @@
-# Text101
-
 Below you can find links to download a few mini games I have built with C# and Unity
 
 ## Mac os x
