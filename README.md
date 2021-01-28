@@ -1,16 +1,6 @@
 # Text101
 
-Text101 is a text based game, where the user will read a story and attempt to complete the game using the buttons available in the screen. The game will display a new screen of text in response to the button click. The game contains multiple background pictures and background music, the game automatically changes the background picture according to the story, A winning theme is played when the user reaches the end of the game. The game is compatible with mobile machines.
-
-# BlockBreaker
-A recreation of classic block breaking games like Arkanoid. A paddel at the bottom of the screen is used
-to bounce a ball that hits blocks above the paddel, these blocks disappear after one or more hits, there are three types
-blocks whom each have different color. The game contains background music, sound effects for the ball bouncing and for the 
-blocks breaking. Just like the classic block breaking games once all destructible blocks on the level are gone the player
-will be moved onto a new level without interruption of the background music.
-
-# LaserDefender
-Laser defender is a modern 2D clone of Space Invaders.In particular, it takes from space invader the movement and fire mechanic, but omits the destructible covers. The player, represented by a spaceship, will be able to move within the play space using the left and right arrow keys, while shooting projectiles upward in the playspace. 
+Below you can find links to download a few mini games I have built with C# and Unity
 
 ## Mac os x
 **You can download the game for Mac by clicking Download below**
